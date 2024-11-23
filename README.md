@@ -2,7 +2,7 @@
 
 A visually appealing and interactive music player built with **React**. It supports a playlist, audio visualizations, playback controls, and a seamless user experience.
 
-![Music Player Preview](./assets/player_preview.png)
+![Music Player Preview](./src/assets/player_preview.png)
 
 ---
 
